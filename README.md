@@ -14,7 +14,7 @@ Booleans
 2. What will true && false evaluate to?
 3. What will !false || false evaluate to?
 4. What will 13 % 2 == 0 evaluate to?
-5. Write 4 examples of expressions using each of the operations: &&, ||, !. Print out the result of your expressions using puts. Be sure to test your work by running your code!
+5. Write 4 examples of expressions using each of the operations: &&, ||, !. Print out the result of your expressions using console.log. Be sure to test your work by running your code!
 ---------------------------------------------------------------------------
 Strings
 1. What will "Hey" + "Programmers" evaluate to?
